@@ -1,0 +1,5 @@
+## Debug
+ 
+-Run `autoprefixer-cli -o style.prefixed.css style.css`
+
+./node_modules/nu-html-checker/bin/cli *.html

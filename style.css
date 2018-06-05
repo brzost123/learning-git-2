@@ -1,0 +1,33 @@
+
+body {
+	margin: 0;
+	font-family: Quicksand, sans-serif;
+}
+
+.text {
+	background-color: grey;
+	color: white;
+	text-align: center;
+}
+
+.ref {
+	color: black;
+	padding: 20px;
+}
+
+.zwrotka1 {
+	color: yellow;
+}
+
+.zwrotka2 {
+	color: orange;
+}
+
+.zwrotka3 {
+	color: blue;
+}
+
+h1 {
+	margin: 0;
+	padding-top: 20px;
+}
